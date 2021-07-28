@@ -1,7 +1,7 @@
 from django.conf import settings
 
 REPO_STATS_GITHUB_TOKEN = getattr(
-    settings, "REPO_STATS_GITHUB_TOKEN", "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"
+    settings, "REPO_STATS_GITHUB_TOKEN", None
 )
 
 REPO_STATS_COMMIT_DAYS = getattr(
