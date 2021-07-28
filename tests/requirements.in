@@ -1,0 +1,13 @@
+PyGithub
+requests
+
+tox
+coverage
+django-app-helper[cms]
+django<3
+django-extensions  # Needed if django < 3.1
+python-dateutil>=2.4
+pyflakes>=2.1.1
+flake8
+isort
+mock
