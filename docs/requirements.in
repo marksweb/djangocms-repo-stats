@@ -1,0 +1,5 @@
+furo
+Sphinx>4
+sphinxcontrib-spelling
+sphinx-autobuild
+pip-tools
